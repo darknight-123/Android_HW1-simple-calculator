@@ -1,4 +1,4 @@
-"# Android_homework" 
+# Android_homework_simple calculator
 
 簡易計算機布置
 
